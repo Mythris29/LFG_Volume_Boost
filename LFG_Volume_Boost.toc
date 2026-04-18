@@ -1,0 +1,8 @@
+## Interface: 120000
+## Title: LFG |cFFFFD700Volume|r Boost
+## Notes: Briefly boosts sound when LFG queue pops.
+## Author: Mythris
+## Version: 1.1
+## X-Category: Audio & Video
+
+lfg_volume_boost.lua

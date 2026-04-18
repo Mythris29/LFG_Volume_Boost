@@ -1,0 +1,5 @@
+package-as: LFG_Volume_Boost
+
+ignore:
+  - README.md
+  - .gitignore
