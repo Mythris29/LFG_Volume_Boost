@@ -2,8 +2,10 @@
 ## Title: LFG |cFFFFD700Volume|r Boost
 ## Notes: Briefly boosts sound when LFG queue pops.
 ## Author: Mythris
-## Version: 12.0.1-1
+## Version: 12.0.1-2
 ## X-Category: Audio & Video
 ## X-Curse-Project-ID: 1102026
+## SavedVariables: LFGVolumeBoost_Global
+## SavedVariablesPerCharacter: LFGVolumeBoost_Char
 
 lfg_volume_boost.lua
